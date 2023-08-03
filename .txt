@@ -1,0 +1,36 @@
+Features of the Automated Student Registration System Project
+Automated Student Registration System as a kind of management information system can not only record the information for student registration each term quickly and efficiently.
+Login Details -
+Councilor
+User Name:"Coun101"
+Password:"c101"
+--------------
+Registrar
+User Name:"Reg191"
+Password:"reg1"
+
+Software Requirement to run this project
+Details not available
+
+Tools and Technologies to be used in this project
+Details not available
+
+How To Import And Run The Project?
+1. Download and Unzip file on your local system.
+
+2. Open java eclipse and and import project.
+
+3. Configure Apache Tomcat server in eclipse and project.
+
+4. Configure database connection.
+
+5. Right click on project and click as Run as-->Run on server.
+
+6. My all project mysql database connection credential is Username - "root" & Password - "root"
+
+How To Import Database?
+1. Open MySQL Workbench.
+
+2. Create database according to downloaded project folder database name.
+
+3. Import database file in created database in mysql workbech.
